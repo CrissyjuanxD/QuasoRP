@@ -1,0 +1,11 @@
+{
+  "resource_pack_name": "geyser_custom",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "quaso_mochila_1": { "textures": "textures/items/mochila_lime" },
+    "quaso_mochila_2": { "textures": "textures/items/mochila_blue" },
+    "quaso_mochila_3": { "textures": "textures/items/mochila_orange" },
+    "quaso_mochila_4": { "textures": "textures/items/mochila_red" },
+    "quaso_mochila_5": { "textures": "textures/items/mochila_purple" }
+  }
+}
