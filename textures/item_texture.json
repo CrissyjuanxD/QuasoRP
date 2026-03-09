@@ -1,5 +1,5 @@
 {
-  "resource_pack_name": "geyser_custom",
+  "resource_pack_name": "quaso_rp",
   "texture_name": "atlas.items",
   "texture_data": {
     "quaso_mochila_1": { "textures": "textures/items/mochila_lime" },

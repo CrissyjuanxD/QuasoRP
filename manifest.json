@@ -9,7 +9,7 @@
   },
   "modules": [
     {
-      "description": "Texturas de Mochilas",
+      "description": "Texturas",
       "type": "resources",
       "uuid": "f1e2d3c4-b5a6-47a8-9876-1234567890ab",
       "version": [1, 0, 0]
